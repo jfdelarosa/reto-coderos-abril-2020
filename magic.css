@@ -1,6 +1,5 @@
 body {
   counter-reset: sum;
-  counter-increment: sum "";
 }
 .textarea div {
   counter-increment: sum;
